@@ -1,4 +1,4 @@
-#Notes and Lists#
+# Notes and Lists #
 
 This is a note taking app that is developed using plain Javascript. This app lets users to create notes and lists. Some of the features include:
 
