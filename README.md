@@ -1,4 +1,4 @@
-#Notes and Lists
+#Notes and Lists#
 
 This is a note taking app that is developed using plain Javascript. This app lets users to create notes and lists. Some of the features include:
 
@@ -8,10 +8,10 @@ This is a note taking app that is developed using plain Javascript. This app let
 4. View styles: grid or list
 5. Note/list titles can be added
 
-Possible future updates for this:
+Possible future updates for this app:
 
-1. Saving the notes to the local storage using localStorage
-2. Right now, when an item is marked as 'done', it cannot be added back to unchecked items. So this feature can be added in the future
+1. Saving the notes and lists to the local storage using localStorage
+2. Right now, when an item is marked as checked, it cannot be added back to unchecked items. So this feature can be added in the future
 3. Categorize lists and notes (work, school, home, shopping etc.)
 
 Environments used:
